@@ -29,3 +29,12 @@
 
 - In dedicated config files：分別放置於不同檔案
 - In package.json：都放在 `package.json` 內
+
+## Save this as a preset for future projects?
+
+:::info
+是否將此操作作為將來專案的操作設定
+:::
+
+- yes
+- no
